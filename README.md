@@ -10,15 +10,17 @@ The dashboard offers a visual representation of essential metrics and insights d
 
 #### Total Departures:
   Visual representation of the total number of employees who left the company.
+  
 #### Employee Profile Metrics:
   Charts depicting average monthly income, age distribution, total working years, and years spent in '149 Solutions' for departing employees.
+  
 #### Factors of Attrition:
-  Interactive visualizations highlighting factors contributing to attrition, such as job role distribution, tenure with current managers, number of previous companies, and gender     disparities.
-### **Insights and Recommendations:**
+  Interactive visualizations highlighting factors contributing to attrition, such as job role distribution, tenure with current managers, number of previous companies, and gender disparities.
+  
+## **Insights and Recommendations:**
   Based on the analysis presented in the dashboard, the following insights and recommendations are provided:
 
 #### Job Role Dynamics:
-
 - Laboratory Technicians and Sales Executives comprise a significant portion of departing employees.
 
 -  Job role satisfaction and career advancement opportunities needs to be addressed in these areas.
@@ -30,8 +32,10 @@ The dashboard offers a visual representation of essential metrics and insights d
   
 #### Prior Work Experience:
 - Employees with limited prior work experience show higher attrition rates.
--  Implement onboarding and integration programs to facilitate smoother transitions for new hires.
+
+-  Onboarding and integration programs needs to be implemented to facilitate smoother transitions for new hires.
   
 #### Gender Disparities:
 - Male employees demonstrate a higher attrition rate compared to females.
--  Implement diversity and inclusion initiatives to create a more inclusive work environment.
+
+-  Diversity and inclusion initiatives needs to be incorporated to create a more inclusive work environment.
