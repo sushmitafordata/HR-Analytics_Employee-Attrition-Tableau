@@ -1,1 +1,27 @@
 # HR-Analytics_Employee-Attrition-Tableau
+
+## Project Overview:
+As the creator of this Tableau dashboard report, I present a comprehensive analysis of employee attrition within '149 Solutions'. This report aims to provide actionable insights to senior management by visualizing key factors contributing to attrition and proposing strategic recommendations for retention.
+
+## Dashboard Summary:
+The dashboard offers a visual representation of essential metrics and insights derived from the analysis of employee attrition data. 
+
+### **Here's a brief overview of the key components:**
+
+#### Total Departures:
+  Visual representation of the total number of employees who left the company.
+#### Employee Profile Metrics:
+  Charts depicting average monthly income, age distribution, total working years, and years spent in '149 Solutions' for departing employees.
+#### Factors of Attrition:
+  Interactive visualizations highlighting factors contributing to attrition, such as job role distribution, tenure with current managers, number of previous companies, and gender     disparities.
+#### Insights and Recommendations:
+  Based on the analysis presented in the dashboard, the following insights and recommendations are provided:
+
+Job Role Dynamics:
+Laboratory Technicians and Sales Executives comprise a significant portion of departing employees. Address job role satisfaction and career advancement opportunities in these areas.
+Managerial Relationships:
+Employees with shorter tenure under current managers exhibit higher attrition rates. Focus on improving managerial support and training to enhance employee-manager relationships.
+Prior Work Experience:
+Employees with limited prior work experience show higher attrition rates. Implement onboarding and integration programs to facilitate smoother transitions for new hires.
+Gender Disparities:
+Male employees demonstrate a higher attrition rate compared to females. Implement diversity and inclusion initiatives to create a more inclusive work environment.
