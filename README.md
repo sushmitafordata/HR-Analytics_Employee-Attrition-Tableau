@@ -6,7 +6,7 @@ As the creator of this Tableau dashboard report, I present a comprehensive analy
 ## Dashboard Summary:
 The dashboard offers a visual representation of essential metrics and insights derived from the analysis of employee attrition data. 
 
-**LIVE DASHBOARD LINK **
+**LIVE DASHBOARD LINK**
 https://public.tableau.com/views/HRAttritionAnalysis_17141685208100/HRAnalyticsDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ### **Here's a brief overview of the key components:**
