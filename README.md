@@ -11,6 +11,9 @@ The dashboard offers a visual representation of essential metrics and insights d
 
 https://public.tableau.com/views/HRAttritionAnalysis_17141685208100/HRAnalyticsDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
+![HR Attrition Analysis_page-0001](https://github.com/sushmitafordata/HR-Analytics_Employee-Attrition-Tableau/assets/135410984/578fff92-b80f-4545-bca4-664ab6b219c1)
+
+
 ### **Here's a brief overview of the key components:**
 
 #### Total Departures:
