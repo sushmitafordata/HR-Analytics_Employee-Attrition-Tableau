@@ -18,12 +18,15 @@ The dashboard offers a visual representation of essential metrics and insights d
   Based on the analysis presented in the dashboard, the following insights and recommendations are provided:
 
 #### Job Role Dynamics:
+
 - Laboratory Technicians and Sales Executives comprise a significant portion of departing employees.
--  Address job role satisfaction and career advancement opportunities in these areas.
+
+-  Job role satisfaction and career advancement opportunities needs to be addressed in these areas.
   
 #### Managerial Relationships:
 - Employees with shorter tenure under current managers exhibit higher attrition rates.
-- Focus on improving managerial support and training to enhance employee-manager relationships.
+
+- Support and training needs to be implemented to to enhance employee-manager relationships.
   
 #### Prior Work Experience:
 - Employees with limited prior work experience show higher attrition rates.
