@@ -14,14 +14,21 @@ The dashboard offers a visual representation of essential metrics and insights d
   Charts depicting average monthly income, age distribution, total working years, and years spent in '149 Solutions' for departing employees.
 #### Factors of Attrition:
   Interactive visualizations highlighting factors contributing to attrition, such as job role distribution, tenure with current managers, number of previous companies, and gender     disparities.
-#### Insights and Recommendations:
+### **Insights and Recommendations:**
   Based on the analysis presented in the dashboard, the following insights and recommendations are provided:
 
-Job Role Dynamics:
-Laboratory Technicians and Sales Executives comprise a significant portion of departing employees. Address job role satisfaction and career advancement opportunities in these areas.
-Managerial Relationships:
-Employees with shorter tenure under current managers exhibit higher attrition rates. Focus on improving managerial support and training to enhance employee-manager relationships.
-Prior Work Experience:
-Employees with limited prior work experience show higher attrition rates. Implement onboarding and integration programs to facilitate smoother transitions for new hires.
-Gender Disparities:
-Male employees demonstrate a higher attrition rate compared to females. Implement diversity and inclusion initiatives to create a more inclusive work environment.
+#### Job Role Dynamics:
+- Laboratory Technicians and Sales Executives comprise a significant portion of departing employees.
+-  Address job role satisfaction and career advancement opportunities in these areas.
+  
+#### Managerial Relationships:
+- Employees with shorter tenure under current managers exhibit higher attrition rates.
+- Focus on improving managerial support and training to enhance employee-manager relationships.
+  
+#### Prior Work Experience:
+- Employees with limited prior work experience show higher attrition rates.
+-  Implement onboarding and integration programs to facilitate smoother transitions for new hires.
+  
+#### Gender Disparities:
+- Male employees demonstrate a higher attrition rate compared to females.
+-  Implement diversity and inclusion initiatives to create a more inclusive work environment.
