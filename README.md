@@ -6,10 +6,8 @@ Here is an comprehensive analysis of employee attrition within '149 Solutions'. 
 ## Dashboard Summary:
 The dashboard offers a visual representation of essential metrics and insights derived from the analysis of employee attrition data. 
 
-**LIVE DASHBOARD LINK**
+[**LIVE DASHBOARD LINK**](https://public.tableau.com/views/HRAttritionAnalysis_17141685208100/HRAnalyticsDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-
-https://public.tableau.com/views/HRAttritionAnalysis_17141685208100/HRAnalyticsDashboard?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 ![HR Attrition Analysis_page-0001](https://github.com/sushmitafordata/HR-Analytics_Employee-Attrition-Tableau/assets/135410984/578fff92-b80f-4545-bca4-664ab6b219c1)
 
