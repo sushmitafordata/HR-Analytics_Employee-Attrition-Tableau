@@ -1,7 +1,7 @@
 # HR_Attrition-Tableau
 
 ## Project Overview:
-As the creator of this Tableau dashboard report, I present a comprehensive analysis of employee attrition within '149 Solutions'. This report aims to provide actionable insights to senior management by visualizing key factors contributing to attrition and proposing strategic recommendations for retention.
+Here is an comprehensive analysis of employee attrition within '149 Solutions'. This report aims to provide actionable insights to senior management by visualizing key factors contributing to attrition and proposing strategic recommendations for retention.
 
 ## Dashboard Summary:
 The dashboard offers a visual representation of essential metrics and insights derived from the analysis of employee attrition data. 
